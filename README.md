@@ -2,8 +2,17 @@
 Image Processing Project
 
 Dive into OCR - Ch. 5:
-- image processing
-- character segmentation
-- character recognition
+- Image processing
+- Character segmentation
+- Character recognition
 
-### Data Preprocessing
+#### Image processing:  
+- Adaptive thresholding.  
+
+#### Character Segmentation
+- Line segmentation  
+- Word segmentation  
+- Contour detection
+
+#### Character recognition  
+- Template matching  
