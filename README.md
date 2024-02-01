@@ -6,13 +6,13 @@ Dive into OCR - Ch. 5:
 - Character segmentation
 - Character recognition
 
-#### Image processing:  
+### Image processing:  
 - Adaptive thresholding.  
 
-#### Character Segmentation
+### Character Segmentation
 - Line segmentation  
 - Word segmentation  
 - Contour detection
 
-#### Character recognition  
+### Character recognition  
 - Template matching  
